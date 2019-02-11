@@ -1,4 +1,4 @@
-**Project Name:-** Basic Bash Calculator (bc)
+**Project Name:-** Bash Calculator
 
 ### DESCRIPTION :-  
 
