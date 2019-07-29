@@ -561,9 +561,9 @@ int readline(char *line, int len) {
 	return len - 1;
 }
 int main(int argc, char *argv[]) {
-	printf("bc 1.07.1\n");
+	printf("\nbc 1.07.1\n");
 	printf("Copyright 2018 ---> Shripad Mhetre -> 111708036\n");	
-	printf("This is free software with ABSOLUTELY NO WARRANTY.\n");
+	printf("This is free software with ABSOLUTELY NO WARRANTY.\n\n");
 	number *r;
 	char line[2048];
 	while(readline(line, 2048)) {
