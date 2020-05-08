@@ -5,7 +5,7 @@
   * This is the **Command line Arbitrary precision calculator** which is implemented using _C Programming language_.
   * It tries to implement some functionalities from unix based command **'bc'**.
   ---
-  * Operations performed on very long numbers are as follows:-
+  * Operations performed on countably infinite length numbers are as follows:-
     * Addition
     * Substraction
     * Multiplication
