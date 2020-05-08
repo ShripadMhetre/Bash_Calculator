@@ -24,3 +24,11 @@
  * Open **Terminal** and _change directory_ to the project directory.  
  * Type command ' **make** ' which will compile the required files and generate _executable file_.  
  * Then type the command ' **./project** '. 
+
+  ---
+  
+### Snapshots :-
+
+![SnapShot 1](/snapshots/snapshot1.png)
+
+![SnapShot 2](/snapshots/snapshot2.png)
