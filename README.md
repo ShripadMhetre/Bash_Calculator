@@ -26,9 +26,3 @@
  * Then type the command ' **./project** '. 
 
   ---
-  
-### Snapshots :-
-
-![SnapShot 1](/snapshots/snapshot1.png)
-
-![SnapShot 2](/snapshots/snapshot2.png)
