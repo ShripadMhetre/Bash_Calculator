@@ -1,5 +1,0 @@
-1) one of the bc project on github.
-	used to get the general idea about how the workflow should be.
-	Link :-  https://github.com/roshan02/big-number-calculator
-
-2) modified the infix assignment and used for bc.
